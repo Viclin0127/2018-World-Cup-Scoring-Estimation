@@ -39,3 +39,7 @@ score=[]
 for a,b in zip(a_team,b_team):
     score.append(simulate_match(a,b,knockout = False))
 ```
+
+
+3. my first round result:
+![alt 文字](https://github.com/Viclin0127/2018-World-Cup-Scoring-Estimation/blob/master/%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7%202019-04-02%20%E4%B8%8A%E5%8D%8811.18.24.png "Logo 標題文字 1")
